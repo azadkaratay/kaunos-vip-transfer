@@ -1,0 +1,54 @@
+{
+  "nav": { "home": "Ana Sayfa", "about": "Hakkımızda", "services": "Hizmetler", "contact": "İletişim" },
+  "menu": { "title": "Menü" },
+  "hero": {
+    "title": "Lüks VIP Transfer",
+    "subtitle": "Dalaman Havalimanı'ndan Türkiye'nin Her Noktasına Özel Şoförlü Transfer",
+    "cta": "VIP Transfer Rezervasyonu Yap",
+    "badge": "Dalaman Havalimanı"
+  },
+  "about": {
+    "title": "Neden Kaunos VIP Transfer",
+    "features": {
+      "availability_title": "7/24 Hizmet",
+      "availability_desc": "Gece gündüz her zaman hazırız; dilediğiniz yere güvenle ulaştırırız.",
+      "meet_title": "Dalaman Havalimanı'nda Karşılama",
+      "meet_desc": "İniş anından itibaren kişiye özel profesyonel karşılama ve yardım.",
+      "luxury_title": "Lüks Araç Servisi",
+      "luxury_desc": "Premium Mercedes filosu ile konforlu ve şık yolculuk deneyimi."
+    }
+  },
+  "services": {
+    "title": "Hizmetlerimiz",
+    "items": {
+      "airport_title": "Havalimanı Transferleri",
+      "airport_desc": "Dalaman Havalimanı'na gidiş-dönüş hızlı, güvenli ve şık transferler.",
+      "hotel_title": "Otel Transferleri",
+      "hotel_desc": "Otel, villa veya resort konaklamanız arasında konforlu ulaşım.",
+      "chauffeur_title": "Özel Şoför",
+      "chauffeur_desc": "Günübirlik turlar, etkinlikler veya uzun mesafe için kişisel sürücü."
+    }
+  },
+  "contact": {
+    "title": "İletişim / Rezervasyon",
+    "desc": "Formu doldurun; ekibimiz en kısa sürede sizinle iletişime geçecektir."
+  },
+  "contactForm": {
+    "name_label": "Adınız",
+    "name_placeholder": "Ahmet Yılmaz",
+    "email_label": "E-posta",
+    "email_placeholder": "ahmet@example.com",
+    "phone_label": "Telefon",
+    "phone_placeholder": "+90 555 555 55 55",
+    "destination_label": "Gidilecek Yer",
+    "destination_placeholder": "Fethiye, Marmaris…",
+    "date_label": "Tarih",
+    "note_label": "Ek Notlar",
+    "note_placeholder": "Tercihleriniz veya uçuş detaylarınız…",
+    "submit": "Talep Gönder",
+    "sending": "Gönderiliyor…",
+    "success": "Mesajınız başarıyla gönderildi!",
+    "error": "Gönderim başarısız. Lütfen tekrar deneyin."
+  },
+  "footer": { "rights": "Tüm hakları saklıdır." }
+}
