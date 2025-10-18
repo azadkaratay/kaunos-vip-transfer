@@ -1,0 +1,55 @@
+{
+  "nav": { "home": "Startseite", "about": "Über uns", "services": "Leistungen", "contact": "Kontakt" },
+  "menu": { "title": "Menü" },
+  "hero": {
+    "title": "Luxuriöser VIP-Transfer",
+    "subtitle": "Privater Chauffeur vom Flughafen Dalaman zu jedem Ziel in der Türkei",
+    "cta": "VIP-Transfer buchen",
+    "badge": "Flughafen Dalaman"
+  },
+  "about": {
+    "title": "Warum Kaunos VIP Transfer",
+    "features": {
+      "availability_title": "24/7 Verfügbarkeit",
+      "availability_desc": "Wir sind Tag und Nacht bereit und bringen Sie sicher an Ihr Ziel.",
+      "meet_title": "Empfang am Flughafen Dalaman",
+      "meet_desc": "Personalisierter Service ab der Landung mit professioneller Unterstützung.",
+      "luxury_title": "Luxusfahrservice",
+      "luxury_desc": "Reisen Sie komfortabel und stilvoll mit unserer Premium-Mercedes-Flotte."
+    }
+  },
+  "services": {
+    "title": "Unsere Leistungen",
+    "items": {
+      "airport_title": "Flughafentransfers",
+      "airport_desc": "Schnelle, sichere und elegante Transfers von und zum Flughafen Dalaman.",
+      "hotel_title": "Hoteltransfers",
+      "hotel_desc": "Bequeme Fahrten zwischen Hotel, Villa oder Resort.",
+      "chauffeur_title": "Privatchauffeur",
+      "chauffeur_desc": "Ihr persönlicher Fahrer für Tagesausflüge, Events oder Langstrecken."
+    }
+  },
+  "contact": {
+    "title": "Kontakt / Reservierung",
+    "desc": "Füllen Sie das Formular aus, wir melden uns umgehend mit einem Angebot.",
+    "actions": { "booking": "Kontakt / Reservierung", "whatsapp": "WhatsApp" }
+  },
+  "contactForm": {
+    "name_label": "Ihr Name",
+    "name_placeholder": "Max Mustermann",
+    "email_label": "Ihre E-Mail",
+    "email_placeholder": "max@example.com",
+    "phone_label": "Telefonnummer",
+    "phone_placeholder": "+49 160 000000",
+    "destination_label": "Zielort",
+    "destination_placeholder": "Fethiye, Marmaris…",
+    "date_label": "Datum",
+    "note_label": "Zusätzliche Hinweise",
+    "note_placeholder": "Präferenzen oder Fluginformationen…",
+    "submit": "Anfrage senden",
+    "sending": "Wird gesendet…",
+    "success": "Nachricht erfolgreich gesendet!",
+    "error": "Senden fehlgeschlagen. Bitte erneut versuchen."
+  },
+  "footer": { "rights": "Alle Rechte vorbehalten." }
+}

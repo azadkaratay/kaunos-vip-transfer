@@ -1,0 +1,55 @@
+{
+  "nav": { "home": "Inicio", "about": "Sobre nosotros", "services": "Servicios", "contact": "Contacto" },
+  "menu": { "title": "Menú" },
+  "hero": {
+    "title": "Transfer VIP de lujo",
+    "subtitle": "Chofer privado desde el Aeropuerto de Dalaman a cualquier destino en Turquía",
+    "cta": "Reserva tu Transfer VIP",
+    "badge": "Aeropuerto de Dalaman"
+  },
+  "about": {
+    "title": "Por qué elegir Kaunos VIP Transfer",
+    "features": {
+      "availability_title": "Disponibilidad 24/7",
+      "availability_desc": "Estamos listos día y noche para llevarte con seguridad a tu destino.",
+      "meet_title": "Recepción en el Aeropuerto de Dalaman",
+      "meet_desc": "Servicio personalizado desde tu aterrizaje, con asistencia profesional.",
+      "luxury_title": "Servicio de coche de lujo",
+      "luxury_desc": "Viaja con comodidad y estilo con nuestra flota premium de Mercedes."
+    }
+  },
+  "services": {
+    "title": "Nuestros servicios",
+    "items": {
+      "airport_title": "Traslados al aeropuerto",
+      "airport_desc": "Traslados rápidos, seguros y elegantes hacia y desde el Aeropuerto de Dalaman.",
+      "hotel_title": "Traslados a hoteles",
+      "hotel_desc": "Desplazamientos cómodos entre hotel, villa o resort.",
+      "chauffeur_title": "Chofer privado",
+      "chauffeur_desc": "Tu conductor personal para tours de un día, eventos o largos trayectos."
+    }
+  },
+  "contact": {
+    "title": "Contacto / Reserva",
+    "desc": "Completa el formulario y te contactaremos con una oferta personalizada.",
+    "actions": { "booking": "Contacto / Reserva", "whatsapp": "WhatsApp" }
+  },
+  "contactForm": {
+    "name_label": "Tu nombre",
+    "name_placeholder": "Juan Pérez",
+    "email_label": "Tu correo",
+    "email_placeholder": "juan@example.com",
+    "phone_label": "Número de teléfono",
+    "phone_placeholder": "+34 600 000 000",
+    "destination_label": "Destino",
+    "destination_placeholder": "Fethiye, Marmaris…",
+    "date_label": "Fecha",
+    "note_label": "Notas adicionales",
+    "note_placeholder": "Preferencias o detalles de vuelo…",
+    "submit": "Enviar solicitud",
+    "sending": "Enviando…",
+    "success": "¡Mensaje enviado con éxito!",
+    "error": "No se pudo enviar. Inténtalo de nuevo."
+  },
+  "footer": { "rights": "Todos los derechos reservados." }
+}

@@ -31,7 +31,8 @@
   },
   "contact": {
     "title": "Contact / Booking",
-    "desc": "Fill out the form below and our team will get back to you shortly."
+    "desc": "Fill out the form below and our team will get back to you shortly.",
+    "actions": { "booking": "Contact / Booking", "whatsapp": "WhatsApp" }
   },
   "contactForm": {
     "name_label": "Your Name",

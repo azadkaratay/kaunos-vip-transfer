@@ -31,7 +31,8 @@
   },
   "contact": {
     "title": "İletişim / Rezervasyon",
-    "desc": "Formu doldurun; ekibimiz en kısa sürede sizinle iletişime geçecektir."
+    "desc": "Formu doldurun; ekibimiz en kısa sürede sizinle iletişime geçecektir.",
+    "actions": { "booking": "İletişim / Rezervasyon", "whatsapp": "WhatsApp" }
   },
   "contactForm": {
     "name_label": "Adınız",

@@ -24,7 +24,7 @@ export const metadata: Metadata = {
 };
 
 export function generateStaticParams() {
-  return [{ locale: 'en' }, { locale: 'tr' }, { locale: 'ru' }];
+  return [{ locale: 'en' }, { locale: 'tr' }, { locale: 'ru' }, { locale: 'de' }, { locale: 'es' }];
 }
 
 export default async function LocaleLayout({ children, params }: { children: React.ReactNode; params: Promise<{ locale: string }> }) {

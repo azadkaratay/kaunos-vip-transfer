@@ -36,21 +36,29 @@ export default function HomePage() {
             className="grid md:grid-cols-2 gap-8 items-center"
           >
             {/* Google Form Wrapper */}
-            <div className="bg-gradient-to-b from-ink-900 to-ink-800 border border-sand-500/30 backdrop-blur-md shadow-xl rounded-2xl p-4 md:p-6 flex items-center justify-center">
-              <div className="w-full max-w-[800px]">
-                <h2 className="text-2xl font-semibold mb-4 text-sand-50">{tContact('title')}</h2>
-                <p className="text-sand-200/80 text-sm mb-6">{tContact('desc')}</p>
-                <iframe
-                  src="https://docs.google.com/forms/d/e/1FAIpQLSeBrrMWDzvAPYafxElpMw2Vfd-VJfZjhuxVz-BjiNxthmFnEg/viewform?embedded=true"
-                  title="Transfer Booking Form"
-                  width="100%"
-                  height="1100"
-                  frameBorder="0"
-                  marginHeight={0}
-                  marginWidth={0}
-                  loading="lazy"
-                  className="w-full h-auto md:h-[1100px] rounded-xl overflow-hidden bg-transparent"
-                />
+            <div className="bg-gradient-to-b from-ink-900 to-ink-800 border border-sand-500/30 backdrop-blur-md shadow-xl rounded-2xl p-4 md:p-6">
+              {/* Outer scroller keeps embed size on mobile */}
+              <div className="space-y-4 md:space-y-6">
+                <h2 className="text-2xl font-semibold mb-2 md:mb-4 text-sand-50">{tContact('title')}</h2>
+                <p className="text-sand-200/80 text-sm">{tContact('desc')}</p>
+                <div className="mt-4 flex flex-wrap items-center gap-3">
+                  <a
+                    href="https://forms.gle/aeHYKkVkxU8m6bdEA"
+                    target="_blank"
+                    rel="noreferrer"
+                    className="btn-primary"
+                  >
+                    {tContact('actions.booking')}
+                  </a>
+                  <a
+                    href="https://wa.me/905076312304"
+                    target="_blank"
+                    rel="noreferrer"
+                    className="rounded-2xl border border-white/10 px-4 py-2 text-sand-50/90 hover:text-sand-50 hover:bg-white/5"
+                  >
+                    {tContact('actions.whatsapp')}
+                  </a>
+                </div>
               </div>
             </div>
 
