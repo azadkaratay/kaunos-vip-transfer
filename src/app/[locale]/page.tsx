@@ -20,6 +20,7 @@ export default function HomePage() {
         videoSrc="/videos/hero.mp4"
         posterSrc="/images/hero-poster.jpg"
         badge={tHero('badge')}
+        trustNote={tHero('trust_note')}
       />
 
       <About />

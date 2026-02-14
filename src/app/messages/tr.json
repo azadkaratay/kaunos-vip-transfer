@@ -2,31 +2,32 @@
   "nav": { "home": "Ana Sayfa", "about": "Hakkımızda", "services": "Hizmetler", "contact": "İletişim" },
   "menu": { "title": "Menü" },
   "hero": {
-    "title": "Lüks VIP Transfer",
-    "subtitle": "Dalaman Havalimanı'ndan Türkiye'nin Her Noktasına Özel Şoförlü Transfer",
+    "title": "Lüks Özel Transfer Rezervasyonu",
+    "subtitle": "Dalaman Havalimanı’ndan Türkiye’nin birçok noktasına, lisanslı profesyonel sürücülerle konforlu özel araç rezervasyonu yapın.",
     "cta": "VIP Transfer Rezervasyonu Yap",
-    "badge": "Dalaman Havalimanı"
+    "badge": "DALAMAN HAVALİMANI ULAŞIM HİZMETİ",
+    "trust_note": "Tüm transferler, gerekli yasal yetkilere sahip bağımsız sürücüler tarafından gerçekleştirilmektedir."
   },
   "about": {
     "title": "Neden Kaunos VIP Transfer",
     "features": {
-      "availability_title": "7/24 Hizmet",
-      "availability_desc": "Gece gündüz her zaman hazırız; dilediğiniz yere güvenle ulaştırırız.",
+      "availability_title": "7/24 Destek",
+      "availability_desc": "Rezervasyon ve planlama sürecinizde günün her saatinde destek sağlıyoruz.",
       "meet_title": "Dalaman Havalimanı'nda Karşılama",
-      "meet_desc": "İniş anından itibaren kişiye özel profesyonel karşılama ve yardım.",
-      "luxury_title": "Lüks Araç Servisi",
-      "luxury_desc": "Lüks VIP araçlarımız sizi karşılayacaktır."
+      "meet_desc": "Uçuş inişinden itibaren profesyonel sürücüler tarafından karşılanmanız için organizasyon sağlanır.",
+      "luxury_title": "Konforlu Özel Araç Seçenekleri",
+      "luxury_desc": "Farklı kapasite ve konfor seviyelerine sahip araç seçenekleri sunulmaktadır."
     }
   },
   "services": {
     "title": "Hizmetlerimiz",
     "items": {
-      "airport_title": "Havalimanı Transferleri",
-      "airport_desc": "Dalaman Havalimanı'na gidiş-dönüş hızlı, güvenli ve şık transferler.",
-      "hotel_title": "Otel Transferleri",
-      "hotel_desc": "Otel, villa veya resort konaklamanız arasında konforlu ulaşım.",
-      "chauffeur_title": "Özel Şoför",
-      "chauffeur_desc": "Günübirlik turlar, etkinlikler veya uzun mesafe için kişisel sürücü."
+      "airport_title": "VIP Havalimanı Transferi",
+      "airport_desc": "Dalaman Havalimanı ile konaklama adresiniz arasında, deneyimli sürücüler ve üst segment araçlarla planlanan özel transfer organizasyonu. Varışınızdan itibaren maksimum konfor ve gizlilik sunulur.",
+      "hotel_title": "Konaklama Transferleri",
+      "hotel_desc": "Otel, villa veya resort konaklamanız ile bölgedeki tüm destinasyonlar arasında, programınıza uygun VIP ulaşım planlaması.",
+      "chauffeur_title": "Özel Şoförlü Araç Hizmeti",
+      "chauffeur_desc": "Günlük kullanım, şehir içi programlar veya uzun mesafe seyahatler için profesyonel sürücülerle lüks araç tahsisi."
     }
   },
   "contact": {

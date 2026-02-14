@@ -9,6 +9,7 @@ type HeroVideoProps = {
   posterSrc?: string;
   videoSrc?: string;
   badge?: string;
+  trustNote?: string;
 };
 
 export default function HeroVideo({
@@ -20,6 +21,7 @@ export default function HeroVideo({
   posterSrc = "/images/hero-poster.jpg",
   videoSrc = "/videos/hero.mp4",
   badge = "Dalaman Airport",
+  trustNote,
 }: HeroVideoProps) {
   return (
     <section className="hero-wrap bg-ink-900">
@@ -58,6 +60,9 @@ export default function HeroVideo({
             WhatsApp
           </a>
         </div>
+        {trustNote && trustNote.trim().length > 0 ? (
+          <p className="mt-4 max-w-xl mx-auto text-sand-300/70 text-xs">{trustNote}</p>
+        ) : null}
       </div>
     </section>
   );

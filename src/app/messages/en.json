@@ -3,9 +3,10 @@
   "menu": { "title": "Menu" },
   "hero": {
     "title": "Luxury VIP Transfer",
-    "subtitle": "Private Chauffeur from Dalaman Airport to Anywhere in Turkey",
+    "subtitle": "Dalaman Airport Private Transfer Booking",
     "cta": "Book Your VIP Transfer",
-    "badge": "Dalaman Airport"
+    "badge": "Dalaman Airport",
+    "trust_note": "All transfers are carried out by independent drivers with required legal permits."
   },
   "about": {
     "title": "Why Choose Kaunos VIP Transfer",
